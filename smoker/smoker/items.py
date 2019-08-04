@@ -7,8 +7,8 @@
 
 import scrapy
 
-class SmokerItem(scrapy.Item):
+class SmokerPageItem(scrapy.Item):
     
-    name= scrapy.Field()
-    url= scrapy.Field()
-    
+    name = scrapy.Field()
+    url = scrapy.Field()
+

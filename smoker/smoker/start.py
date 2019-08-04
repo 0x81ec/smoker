@@ -1,3 +1,3 @@
 from scrapy import cmdline
 
-cmdline.execute("scrapy crawl smoke".split())
+cmdline.execute("scrapy crawl fuck".split())
